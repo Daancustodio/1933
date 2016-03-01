@@ -18,3 +18,7 @@ Aprenda a compartilhar regras de negócio através de uma API
 * http://treinamentos.andrebaltieri.net/#/courses/1933-B
 * http://treinamentos.andrebaltieri.net/#/courses/1933-C
 
+### Assine o Site ###
+Faça este e outros treinamentos por apenas R$ 59,90 mensais! Cancele quando quiser e ainda desfrute de treinamentos mensais online, ao vivo e de graça!
+
+http://assine.andrebaltieri.net/
